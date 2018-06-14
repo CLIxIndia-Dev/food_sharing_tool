@@ -45,6 +45,7 @@ Step 1:- To install the game you have to clone the git repository in you local c
     
 ```git clone https://github.com/CLIxIndia-Dev/food_sharing_tool.git``` 
                       or 
+                      
 ```git clone https://github.com/tanvidom/food_sharing_tool.git```
                       
     
