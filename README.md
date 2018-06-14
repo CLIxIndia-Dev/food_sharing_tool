@@ -12,27 +12,29 @@ This tool is divided into 3 Lessons with a total of 11 activities. It is also av
 ### Conceptualising and Designing
 
 #### CLIx Curriculum Team
-Ruchi Kumar
-Arindam Bose
-Shweta Naik
-Arati Bapat 
-Jeenath Rahaman
-Saurabh Khanna
-Sumegh 
-Saurabh Thakur
+
+1. Ruchi Kumar
+2. Arinda m Bose
+3. Shweta Naik
+4. Arati Bapat 
+5. Jeenath Rahaman
+6. Saurabh Khanna
+7. Sumegh 
+8. Saurabh Thakur
 
 #### MIT.
-Scott Osterweil
+1. Scott Osterweil
 
 #### Development Team
-Ashwin Nagappa
+
+1. Ashwin Nagappa
 2. [Tanvi Domadia](https://github.com/tanvidom)
 3. [Tejas Shah](https://github.com/Tdnshah) 
 
 ### Management and Production Team 
-Jaya Mahale
-Jayashree Anand 
-Sadaqat Mulla 
+1. Jaya Mahale
+2. Jayashree Anand 
+3. Sadaqat Mulla 
 
 ### Technology Behind the development.
 This interactive is developed using open source HTML5 & javascript game framework named Phaser.
