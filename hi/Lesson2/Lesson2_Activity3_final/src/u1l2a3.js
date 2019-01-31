@@ -2493,8 +2493,8 @@ division : function(a,b,c,d)
       }
 
     }
+    else
     {
-      else
       this.showModal4();
     }
  } }

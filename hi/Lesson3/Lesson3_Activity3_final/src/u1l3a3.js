@@ -639,7 +639,7 @@ help_function : function()
         {
           flag_1_in_group = true;
         }*/
-        else if(no_of_workers_in_group[i] == 0)
+        if(no_of_workers_in_group[i] == 0)
         {
           group_length = group_length - 1;
         }
